@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+    background-color:rgb(43, 122, 148) ;
+    
+}
+
+
+#day,#time,#minut,#second{
+    font-size: 160px;
+    font-family: serif;
+}
+
+#day{
+    color:red;
+    
+}
+#time{
+    color: blue;
+}
+#minut{
+    color:green;
+}
+.tsag{
+    background-color: #ccc;
+    position:absolute;
+    top: 30%;
+    left: 28%;
+    
+
+}
+.tsan{
+    position:absolute;
+    top: 10%;
+    left: 18%;
+    font-size: 30px;
+    color: lightgoldenrodyellow;
+
+}
