@@ -36,3 +36,23 @@ body{
     color: lightgoldenrodyellow;
 
 }
+@media (max-width:800px ){
+    #day,#time,#minut,#second{
+        font-size: 20px;
+        font-family: serif;
+    }
+    .tsan{
+        position:absolute;
+        top: 20%;
+        left: 13%;
+        font-size: 20px;
+        color: lightgoldenrodyellow;
+        
+    }
+    .tsag{
+        background-color: #ccc;
+        position:absolute;
+        top: 60%;
+        left: 28%;
+    }
+}
