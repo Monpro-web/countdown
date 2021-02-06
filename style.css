@@ -36,7 +36,7 @@ body{
     color: lightgoldenrodyellow;
 
 }
-@media (max-width:800px ){
+@media (max-width:690px ){
     #day,#time,#minut,#second{
         font-size: 20px;
         font-family: serif;
