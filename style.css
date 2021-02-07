@@ -55,4 +55,16 @@ body{
         top: 60%;
         left: 28%;
     }
+    #day{
+    color:red;
+    font-size:50px;   
+    
+    }
+    #time{
+        color: blue;
+        font-size:40px;   
+    }
+    #minut{
+        color:green;
+        font-size:30px;   
 }
