@@ -1,4 +1,4 @@
-const user = {
-  "name" = "Tsolmon",
-  "age" = 46
+{
+  "name": "Tsolmon",
+  "age": 46
 }
